@@ -1,0 +1,41 @@
+.left-item {
+  padding: 90px 177px 0px 100px;
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center;
+}
+.heading-one {
+  font-family: Raleway;
+  font-weight: 600;
+  font-size: 70px;
+  margin-bottom: 27px;
+}
+.hero-para {
+  font-family: Raleway;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+  margin-bottom: 40px;
+}
+.btn-pink {
+  background: #ef2779 !important;
+  border-radius: 35px !important;
+  width: 143px;
+  height: 38px;
+  font-family: Raleway !important;
+}
+.btn-gray {
+  background: rgba(255, 255, 255, 0.3) !important;
+  border-radius: 25px !important;
+  margin-left: 20px !important;
+  width: 143px;
+  height: 38px;
+  font-family: Raleway !important;
+}
+.right-item {
+  text-align: right;
+}
+.branding-pattern {
+  width: 85%;
+  margin-top: 30px;
+}

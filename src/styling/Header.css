@@ -1,0 +1,21 @@
+.header-links-wrapper {
+  margin-top: 39px !important;
+  padding-left: 17px !important;
+}
+
+.header-links-wrapper span {
+  padding: 0 23px !important;
+  font-weight: 500;
+}
+
+.header-wrapper {
+  border-bottom: 0.5pt solid #e8eaed;
+  padding-bottom: 21px;
+  margin-left: 46px !important;
+}
+.branding-logo {
+  margin-top: 20px;
+}
+.right-navs {
+  text-align: right;
+}

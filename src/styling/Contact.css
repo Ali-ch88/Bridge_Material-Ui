@@ -1,0 +1,124 @@
+.contact-head-item {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px !important;
+  width: 100%;
+}
+.contact-pricing {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 110px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #e8eaed;
+}
+.contact-para {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #e8eaed;
+}
+.contact-item-left {
+  height: 350px;
+  background-color: #1a1a1a;
+  color: #e8eaed;
+  display: flex;
+  flex-direction: column !important;
+}
+.contact-item-right {
+  margin-left: 40px;
+}
+.contact-wrapper {
+  width: 400px;
+}
+.form-txt {
+  margin-top: 30px !important;
+  width: 300px;
+  margin-left: 0px !important;
+  color: #e1022b !important;
+}
+.form-txt .css-1480iag-MuiInputBase-root-MuiInput-root:before {
+  border-color: white !important;
+}
+.form-txt input,
+.form-txt::placeholder {
+  color: white !important;
+}
+::placeholder {
+  color: white !important;
+  opacity: 1 !important;
+}
+.contact-head {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  color: #e8eaed;
+  text-align: center;
+  margin-top: 30px !important;
+}
+.contact-btn {
+  background-color: #ef2779 !important;
+  border-radius: 35px !important;
+  width: 95px;
+  height: 35px;
+  font-family: Raleway !important;
+  margin-top: 40px !important;
+  margin-left: 35px !important;
+}
+.contact-text-icon {
+  display: flex;
+  flex-direction: row !important;
+  margin-top: 15px;
+}
+.location-icon {
+  width: 35px !important;
+  height: 30px !important;
+  margin-right: 10px;
+  color: #ef2779;
+}
+.contact-location-text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  color: #e8eaed;
+  margin-top: 10px;
+}
+.footer {
+  height: 100px;
+  width: 200px;
+}
+
+.contact-wrapper {
+  padding: 1.5px;
+  border-radius: 25px;
+  overflow: hidden;
+  background-color: red;
+  background-image: linear-gradient(
+    180deg,
+    #e1022b 0%,
+    #ee3a00 10.94%,
+    #f4b449 34.9%,
+    #e3598f 58.85%,
+    #22ad9a 79.69%,
+    #589d65 100%
+  );
+}
+
+.contact-item-left {
+  border-radius: 25px;
+  background-color: black;
+}

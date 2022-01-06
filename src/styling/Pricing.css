@@ -1,0 +1,110 @@
+.head-item {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px !important;
+  width: 100%;
+}
+.heading-pricing {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 110px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #e8eaed;
+}
+.pricing-para {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #e8eaed;
+}
+.pricing-categories {
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5px;
+  margin-top: 50px !important;
+  border-radius: 25px;
+  overflow: hidden;
+  background-color: red;
+  background-image: linear-gradient(
+    180deg,
+    #e1022b 0%,
+    #ee3a00 10.94%,
+    #f4b449 34.9%,
+    #e3598f 58.85%,
+    #22ad9a 79.69%,
+    #589d65 100%
+  );
+}
+.pricing-categories:first-child {
+  margin-right: 30px !important;
+}
+.pricing-categories:last-child {
+  margin-left: 30px !important;
+}
+.pricing-plan {
+  width: 370px;
+  height: auto;
+  padding: 50px 0px;
+  background-color: black;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+}
+.pricing-plan-heading {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 22px;
+  text-align: justify;
+  color: #e8eaed;
+  margin-bottom: 50px;
+}
+.pricing-plan-text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  color: #e8eaed;
+  margin-top: 10px;
+}
+.plan-text-icon {
+  display: flex;
+  flex-direction: row !important;
+  margin-top: 15px;
+}
+.text-border {
+  width: 40px;
+  height: 0px;
+  border: 1px solid #e8eaed;
+  margin-top: -35px;
+  margin-bottom: 20px;
+}
+.check-icon {
+  width: 35px !important;
+  height: 30px !important;
+  margin-right: 10px;
+}
+.pricing-btn {
+  background: rgba(255, 255, 255, 0.3) !important;
+  border-radius: 25px !important;
+  width: 256px;
+  height: 38px;
+  font-family: Raleway !important;
+  margin-top: 30px !important;
+}
